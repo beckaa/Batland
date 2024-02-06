@@ -1,6 +1,7 @@
 # Batland
 
 HOW TO PLAY:
+* Download Repository
 * Start Node.js and go to the game directory. 
 * After that start the http-server with "http-server -c-1-cors" to load local files.
 *ALTERNATIVE Server: if npm installed start with npx http-server
